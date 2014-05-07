@@ -1,0 +1,8 @@
+D:\calc\Callor\obj\Debug\Callor.csprojResolveAssemblyReference.cache
+D:\calc\Callor\obj\Debug\Callor.Form1.resources
+D:\calc\Callor\obj\Debug\Callor.Properties.Resources.resources
+D:\calc\Callor\obj\Debug\Callor.csproj.GenerateResource.Cache
+D:\calc\Callor\bin\Debug\Callor.exe
+D:\calc\Callor\bin\Debug\Callor.pdb
+D:\calc\Callor\obj\Debug\Callor.exe
+D:\calc\Callor\obj\Debug\Callor.pdb

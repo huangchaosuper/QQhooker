@@ -1,0 +1,6 @@
+D:\calc\RoseHAService\bin\Release\RoseHAService.exe
+D:\calc\RoseHAService\bin\Release\RoseHAService.pdb
+D:\calc\RoseHAService\obj\Release\RoseHAService.ProjectInstaller.resources
+D:\calc\RoseHAService\obj\Release\RoseHAService.csproj.GenerateResource.Cache
+D:\calc\RoseHAService\obj\Release\RoseHAService.exe
+D:\calc\RoseHAService\obj\Release\RoseHAService.pdb

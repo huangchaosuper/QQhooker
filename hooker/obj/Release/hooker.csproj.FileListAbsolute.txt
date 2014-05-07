@@ -1,0 +1,7 @@
+D:\calc\hooker\bin\Release\hooker.exe
+D:\calc\hooker\bin\Release\hooker.pdb
+D:\calc\hooker\obj\Release\hooker.Form1.resources
+D:\calc\hooker\obj\Release\hooker.Properties.Resources.resources
+D:\calc\hooker\obj\Release\hooker.csproj.GenerateResource.Cache
+D:\calc\hooker\obj\Release\hooker.exe
+D:\calc\hooker\obj\Release\hooker.pdb

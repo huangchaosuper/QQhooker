@@ -1,0 +1,5 @@
+D:\calc\RoseHA\bin\Debug\RoseHA.exe
+D:\calc\RoseHA\bin\Debug\RoseHA.pdb
+D:\calc\RoseHA\obj\Debug\RoseHA.csprojResolveAssemblyReference.cache
+D:\calc\RoseHA\obj\Debug\RoseHA.exe
+D:\calc\RoseHA\obj\Debug\RoseHA.pdb

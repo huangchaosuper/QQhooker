@@ -1,0 +1,8 @@
+D:\calc\hooker\bin\Debug\hooker.exe
+D:\calc\hooker\bin\Debug\hooker.pdb
+D:\calc\hooker\obj\Debug\hooker.csprojResolveAssemblyReference.cache
+D:\calc\hooker\obj\Debug\hooker.Form1.resources
+D:\calc\hooker\obj\Debug\hooker.Properties.Resources.resources
+D:\calc\hooker\obj\Debug\hooker.csproj.GenerateResource.Cache
+D:\calc\hooker\obj\Debug\hooker.exe
+D:\calc\hooker\obj\Debug\hooker.pdb
